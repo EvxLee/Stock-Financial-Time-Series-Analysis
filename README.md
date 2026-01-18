@@ -1,4 +1,4 @@
-# Efficinet Frontier Project: Stock Time-Series Analysis & Portfolio Risk Modeling
+# Efficient Frontier: Stock Time-Series Analysis & Portfolio Risk Modeling Project
 Exploration of stock market data using Yahoo Finance. It covers basic price analysis and portfolio concepts such as Moving Average Crossover Strategy, CAPM, and efficient frontier.
 
 ## Quick start
